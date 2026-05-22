@@ -29,6 +29,7 @@ It includes:
 | `eeg-workstation-agent` | EEG Agent workflows, prompts, and analysis pipelines |
 | `eeg-workstation-examples` | Example EEG demos, including eyes-open/closed, PSD, band power, SSVEP, cVEP, signal quality, and real-time marker workflows |
 | `eeg-workstation-software` | NeuraDock software |
+| `eeg-workstation-sample-data` | Public sample EEG datasets for NeuraDock EEG Workstation tutorials and examples |
 
 ## Open Source Scope
 
