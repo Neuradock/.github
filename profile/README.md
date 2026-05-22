@@ -27,6 +27,7 @@ It includes:
 | `eeg-workstation-python` | Python tools, notebooks, and EEG data reading examples |
 | `eeg-workstation-agent` | EEG Agent workflows, prompts, and analysis pipelines |
 | `eeg-workstation-examples` | Example EEG demos, including eyes-open/closed, PSD, band power, SSVEP, cVEP, signal quality, and real-time marker workflows |
+| `eeg-workstation-software` | NeuraDock software |
 
 ## Open Source Scope
 
