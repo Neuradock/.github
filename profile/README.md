@@ -23,6 +23,7 @@ It includes:
 | Repository | Description |
 |---|---|
 | [`eeg-workstation`](https://github.com/Neuradock/eeg-workstation) | Project overview and repository navigation |
+| [eeg-workstation-software](https://github.com/Neuradock/eeg-workstation-software) | NeuraDock Recording Software releases and software usage notes |
 | `eeg-workstation-docs` | Documentation, getting started guides, data format, FAQ, and hardware interface notes |
 | `eeg-workstation-python` | Python tools, notebooks, and EEG data reading examples |
 | `eeg-workstation-agent` | EEG Agent workflows, prompts, and analysis pipelines |
