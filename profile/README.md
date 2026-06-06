@@ -48,6 +48,6 @@ For hardware, the current open-source scope focuses on **hardware interface and 
 
 - Website: https://neuradock.com (English Version Coming Soon)
 - Crowd Supply: https://www.crowdsupply.com/neuradock/neuradock-eeg-workstation
-- Discord: NeuraDock Community
+- Discord: [NeuraDock Community](https://discord.gg/YdQp8puZjz)
 - YouTube: https://www.youtube.com/@NeuraDock
 
