@@ -23,13 +23,13 @@ It includes:
 | Repository | Description |
 |---|---|
 | [`eeg-workstation`](https://github.com/Neuradock/eeg-workstation) | Project overview and repository navigation |
-| [eeg-workstation-software](https://github.com/Neuradock/eeg-workstation-software) | NeuraDock Recording Software releases and software usage notes |
-| `eeg-workstation-docs` | Documentation, getting started guides, data format, FAQ, and hardware interface notes |
-| `eeg-workstation-python` | Python tools, notebooks, and EEG data reading examples |
-| `eeg-workstation-agent` | EEG Agent workflows, prompts, and analysis pipelines |
-| `eeg-workstation-examples` | Example EEG demos, including eyes-open/closed, PSD, band power, SSVEP, cVEP, signal quality, and real-time marker workflows |
-| `eeg-workstation-software` | NeuraDock software |
-| `eeg-workstation-sample-data` | Public sample EEG datasets for NeuraDock EEG Workstation tutorials and examples |
+| [`eeg-workstation-software`](https://github.com/Neuradock/eeg-workstation-software) | NeuraDock Recording Software releases and software usage notes |
+| [`eeg-workstation-docs`](https://github.com/Neuradock/eeg-workstation-docs) | Documentation, getting started guides, data format, FAQ, and hardware interface notes |
+| [`eeg-workstation-python`](https://github.com/Neuradock/eeg-workstation-python) | Python tools, notebooks, and EEG data reading examples |
+| `eeg-workstation-agent` | (processing) EEG Agent workflows, prompts, and analysis pipelines |
+| [`eeg-workstation-examples`](https://github.com/Neuradock/eeg-workstation-examples) | Example EEG demos, including eyes-open/closed, PSD, band power, SSVEP, cVEP, signal quality, and real-time marker workflows |
+| [`eeg-workstation-data`](https://github.com/Neuradock/eeg-workstation-data) | Public sample EEG datasets for NeuraDock EEG Workstation tutorials and examples |
+| [`eeg-workstation-hardware`](https://github.com/Neuradock/eeg-workstation-hardware) | Hardware interface and port specifications for third-party integration with NeuraDock EEG Workstation |
 
 ## Open Source Scope
 
@@ -51,6 +51,3 @@ For hardware, the current open-source scope focuses on **hardware interface and 
 - Discord: NeuraDock Community
 - YouTube: https://www.youtube.com/@NeuraDock
 
-## Status
-
-The NeuraDock GitHub organization is currently being prepared for public release. More documentation, examples, and developer resources will be added progressively.
