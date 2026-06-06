@@ -26,10 +26,10 @@ It includes:
 | [`eeg-workstation-software`](https://github.com/Neuradock/eeg-workstation-software) | NeuraDock Recording Software releases and software usage notes |
 | [`eeg-workstation-docs`](https://github.com/Neuradock/eeg-workstation-docs) | Documentation, getting started guides, data format, FAQ, and hardware interface notes |
 | [`eeg-workstation-python`](https://github.com/Neuradock/eeg-workstation-python) | Python tools, notebooks, and EEG data reading examples |
-| `eeg-workstation-agent` | (processing) EEG Agent workflows, prompts, and analysis pipelines |
 | [`eeg-workstation-examples`](https://github.com/Neuradock/eeg-workstation-examples) | Example EEG demos, including eyes-open/closed, PSD, band power, SSVEP, cVEP, signal quality, and real-time marker workflows |
 | [`eeg-workstation-data`](https://github.com/Neuradock/eeg-workstation-data) | Public sample EEG datasets for NeuraDock EEG Workstation tutorials and examples |
 | [`eeg-workstation-hardware`](https://github.com/Neuradock/eeg-workstation-hardware) | Hardware interface and port specifications for third-party integration with NeuraDock EEG Workstation |
+| `eeg-workstation-agent` | (processing) EEG Agent workflows, prompts, and analysis pipelines |
 
 ## Open Source Scope
 
