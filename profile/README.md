@@ -29,7 +29,7 @@ It includes:
 | [`eeg-workstation-examples`](https://github.com/Neuradock/eeg-workstation-examples) | Example EEG demos, including eyes-open/closed, PSD, band power, SSVEP, cVEP, signal quality, and real-time marker workflows |
 | [`eeg-workstation-data`](https://github.com/Neuradock/eeg-workstation-data) | Public sample EEG datasets for NeuraDock EEG Workstation tutorials and examples |
 | [`eeg-workstation-hardware`](https://github.com/Neuradock/eeg-workstation-hardware) | Hardware interface and port specifications for third-party integration with NeuraDock EEG Workstation |
-| `eeg-workstation-agent` | (processing) EEG Agent workflows, prompts, and analysis pipelines |
+| [`eeg-workstation-agent`](https://github.com/Neuradock/eeg-workstation-agent)  | (processing) EEG Agent workflows, prompts, and analysis pipelines |
 
 ## Open Source Scope
 
