@@ -30,6 +30,7 @@ It includes:
 | [`eeg-workstation-data`](https://github.com/Neuradock/eeg-workstation-data) | Public sample EEG datasets for NeuraDock EEG Workstation tutorials and examples |
 | [`eeg-workstation-hardware`](https://github.com/Neuradock/eeg-workstation-hardware) | Hardware interface and port specifications for third-party integration with NeuraDock EEG Workstation |
 | [`eeg-workstation-agent`](https://github.com/Neuradock/eeg-workstation-agent)  | (processing) EEG Agent workflows, prompts, and analysis pipelines |
+| [`neuradock-codex-plugin`](https://github.com/Neuradock/neuradock-codex-plugin) | Codex plugin for building, testing, analyzing, and running NeuraDock EEG applications from natural-language requests |
 
 ## Open Source Scope
 
